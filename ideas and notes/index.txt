@@ -1,0 +1,3 @@
+background 1 = Aufmacherfoto: (c) Amazon Studios
+favicon = frei lizenz
+black = selbst gemacht 
