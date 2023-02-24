@@ -1,5 +1,5 @@
 .buynow{
-    background-color: #04AA6D;
+    background-color: #55c1db;
     border: none;
     color: white;
     padding: 20px;
@@ -8,4 +8,9 @@
     display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
+    border-radius: 30%;
+}
+
+.buch{
+    
 }
